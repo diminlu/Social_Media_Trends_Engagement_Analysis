@@ -152,6 +152,8 @@ Tracks how engagement rate has moved over the two-year period covered by the dat
 - Average Engagement Rate % by Month
 - Engagement Rate %: 2024 vs. 2025 by Month
 
+<img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/ca41699c-78cc-494e-8836-baf317afff79" />
+
 **Business Purpose**
 Shows whether engagement is trending, seasonal, or stable, so posting strategy is based on an actual pattern rather than assumption.
 
