@@ -136,6 +136,8 @@ Compares platforms and content types side by side, and identifies which specific
 - Average Engagement Rate % by Platform and Content Type
 - Engagement Mix (Likes / Comments / Shares) by Platform
 
+<img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/c6a84e6b-515b-4cb7-bb36-ae0b642ee7dd" />
+
 **Business Purpose**
 Gives content and platform teams a single view for deciding where to invest posting effort, and which platform-content pairings are worth repeating.
 
@@ -151,6 +153,8 @@ Tracks how engagement rate has moved over the two-year period covered by the dat
 **Visualizations**
 - Average Engagement Rate % by Month
 - Engagement Rate %: 2024 vs. 2025 by Month
+
+<img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/437dfca1-a5fd-44a7-b68f-64c5ea7204fc" />
 
 **Business Purpose**
 Shows whether engagement is trending, seasonal, or stable, so posting strategy is based on an actual pattern rather than assumption.
@@ -169,6 +173,8 @@ Isolates individual posts, rather than platform or content type averages, to ide
 - Bottom 10 Posts by Engagement Rate %
 - Shares vs. Engagement Rate % (scatter)
 - Impressions vs. Reach (scatter, with trendline)
+
+<img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/0f269301-77e5-48a7-a478-0f071a556291" />
 
 **Business Purpose**
 Helps content teams study specific high-performing posts directly, and flags posts with unusually weak reach that may be worth investigating for distribution issues.
