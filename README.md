@@ -1,8 +1,8 @@
 # Social_Media_Trends_Engagement_Analysis
 An analytics project covering 1,000 posts across five platforms and five content formats, built into three interactive dashboards that track engagement, reach, and posting performance from January 2024 through December 2025.\
-\
-Executive Summary\
-\
+
+**Executive Summary**\
+
 This project analyzes two years of social media posting data to identify which platforms, content formats, and combinations of the two drive the strongest engagement. The dataset covers 1,000 posts across Facebook, Instagram, LinkedIn, TikTok, and Twitter, spanning five content types: Carousel, Image, Reel, Text, and Video.\
 The analysis was built into three dashboards: a Platform & Content Performance Dashboard, an Engagement Trend Dashboard, and a Top Performers & Outliers Dashboard. Across all three, one finding stands out clearly: TikTok, and specifically TikTok's Video and Reel content, accounts for a disproportionate share of the account's top engagement results.\
 \
