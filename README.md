@@ -134,7 +134,7 @@ Compares platforms and content types side by side, and identifies which specific
 
 <img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/4063ad95-a9fe-4904-9b4f-6b156e812b93" />
 
-<br>
+<br><br>
 
 **Business Purpose**
 Gives content and platform teams a single view for deciding where to invest posting effort, and which platform-content pairings are worth repeating.
