@@ -54,12 +54,12 @@ Social media teams managing multiple platforms and content formats often face a 
 
 **Data Preparation**
 
-Data Cleaning
+Data Cleaning\
 •	Verification of post-level uniqueness (no duplicate Post IDs).
 •	Validation of Impressions, Reach, Likes, Comments, and Shares as non-negative integers.
 •	Standardization of Platform and Content Type category labels.
 •	Confirmation that Reach never exceeds Impressions for any post.
-Data Transformation
+Data Transformation\
 •	Grouping of Post Date into Month and Year for trend analysis.
 •	Calculation of Reach Rate (Reach divided by Impressions) at the post level.
 •	Aggregation of engagement rate by platform, content type, and platform-content pairing.
@@ -67,7 +67,7 @@ Data Transformation
 
 **KPI Calculations**
 
-Key performance indicators calculated for the dashboards included:
+Key performance indicators calculated for the dashboards included:\
 •	Total Posts
 •	Average Engagement Rate %
 •	Average Reach Rate
@@ -78,62 +78,62 @@ Key performance indicators calculated for the dashboards included:
 
 **Dashboard Development**
 
-Dashboard 1: Platform & Content Performance Dashboard
-This dashboard compares platforms and content types side by side, and identifies which specific combinations perform best.
-Key Metrics
+Dashboard 1: Platform & Content Performance Dashboard\
+This dashboard compares platforms and content types side by side, and identifies which specific combinations perform best.\
+Key Metrics\
 •	Total Posts
 •	Average Engagement Rate %
 •	Average Reach Rate
-Visualizations
+Visualizations\
 •	Average Impressions by Platform, with Engagement Rate % overlay
 •	Average Impressions by Content Type, with Engagement Rate % overlay
 •	Average Engagement Rate % by Platform and Content Type
 •	Engagement Mix (Likes / Comments / Shares) by Platform
-Business Purpose
-Gives content and platform teams a single view for deciding where to invest posting effort, and which platform-content pairings are worth repeating.
-Dashboard 2: Engagement Trend Dashboard
-This dashboard tracks how engagement rate has moved over the two-year period covered by the data.
-Key Metrics
+Business Purpose\
+Gives content and platform teams a single view for deciding where to invest posting effort, and which platform-content pairings are worth repeating.\
+Dashboard 2: Engagement Trend Dashboard\
+This dashboard tracks how engagement rate has moved over the two-year period covered by the data.\
+Key Metrics\
 •	Average Engagement Rate %
 •	Best Performing Month
 •	Worst Performing Month
-Visualizations
+Visualizations\
 •	Average Engagement Rate % by Month
 •	Engagement Rate %: 2024 vs. 2025 by Month
-Business Purpose
-Shows whether engagement is trending, seasonal, or stable, so posting strategy is based on an actual pattern rather than assumption.
-Dashboard 3: Top Performers & Outliers Dashboard
-This dashboard isolates individual posts, rather than platform or content type averages, to identify what the best and worst performing posts have in common.
-Key Metrics
+Business Purpose\
+Shows whether engagement is trending, seasonal, or stable, so posting strategy is based on an actual pattern rather than assumption.\
+Dashboard 3: Top Performers & Outliers Dashboard\
+This dashboard isolates individual posts, rather than platform or content type averages, to identify what the best and worst performing posts have in common.\
+Key Metrics\
 •	Total Posts
 •	Top Post Platform
 •	Top Post Content Type
-Visualizations
+Visualizations\
 •	Top 10 Posts by Engagement Rate %
 •	Bottom 10 Posts by Engagement Rate %
 •	Shares vs. Engagement Rate % (scatter)
 •	Impressions vs. Reach (scatter, with trendline)
-Business Purpose
-Helps content teams study specific high-performing posts directly, and flags posts with unusually weak reach that may be worth investigating for distribution issues.
+Business Purpose\
+Helps content teams study specific high-performing posts directly, and flags posts with unusually weak reach that may be worth investigating for distribution issues.\
 
 **Key Findings**
 
-Platform Insights
+Platform Insights\
 •	TikTok leads on both average impressions (233,931) and average engagement rate (12.26%), more than double every other platform.
 •	Instagram is the next-strongest platform on engagement rate, at 6.46%, followed by LinkedIn (6.05%) and Facebook (5.78%).
 •	Twitter has the weakest average engagement rate of the five platforms, at 3.31%.
-Content Type Insights
+Content Type Insights\
 •	Reel is the strongest content type overall, averaging 10.30% engagement, followed by Video at 7.96%.
 •	Carousel, Image, and Text all average under 6% engagement, regardless of platform.
 •	TikTok Video (12.31%) and TikTok Reel (12.23%) are the two strongest platform-content combinations in the dataset, well ahead of the next-best pairing, Instagram Video, at 6.64%.
-Engagement Composition Insights
+Engagement Composition Insights\
 •	Likes account for 62.6% of total engagement across the dataset, followed by Shares (22.8%) and Comments (14.6%).
 •	Instagram is the most Likes-heavy platform, at 78% of its engagement.
 •	LinkedIn generates the highest share of Comments (24.7%); Twitter and Facebook generate the highest share of Shares (34.6% and 30.6%).
-Trend Insights
+Trend Insights\
 •	Engagement rate stayed within a fairly narrow range across the 24-month period, roughly 6.3% to 8.7%, with no clear seasonal pattern.
 •	February 2024 was the strongest month on record (8.65%); December 2025 was the weakest (6.29%).
-Top Performer Insights
+Top Performer Insights\
 •	All ten of the top-performing individual posts by engagement rate are TikTok posts, seven Reels and three Videos.
 •	Engagement rate rises sharply with share count up to roughly 2,000 shares, then levels off.
 •	Impressions and reach are closely correlated for most posts, with a small number of posts falling well below the expected reach for their impression count.
