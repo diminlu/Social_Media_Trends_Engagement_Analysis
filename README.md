@@ -134,8 +134,6 @@ Compares platforms and content types side by side, and identifies which specific
 
 <img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/4063ad95-a9fe-4904-9b4f-6b156e812b93" />
 
-<br>
-
 **Business Purpose**
 Gives content and platform teams a single view for deciding where to invest posting effort, and which platform-content pairings are worth repeating.
 
@@ -171,6 +169,8 @@ Isolates individual posts, rather than platform or content type averages, to ide
 - Bottom 10 Posts by Engagement Rate %
 - Shares vs. Engagement Rate % (scatter)
 - Impressions vs. Reach (scatter, with trendline)
+
+<img width="2002" height="1095" alt="image" src="https://github.com/user-attachments/assets/39e92963-47cc-4ca2-9ca8-b7c20eb59442" />
 
 **Business Purpose**
 Helps content teams study specific high-performing posts directly, and flags posts with unusually weak reach that may be worth investigating for distribution issues.
